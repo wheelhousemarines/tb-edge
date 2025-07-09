@@ -15,7 +15,7 @@
 ///
 
 export const environment = {
-  appTitle: 'ThingsBoard',
+  appTitle: 'WM - Vessel Monitor System',
   production: true,
 // @ts-ignore
   tbVersion: TB_VERSION,
